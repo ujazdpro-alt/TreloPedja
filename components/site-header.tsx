@@ -1,5 +1,6 @@
 import { Search } from 'lucide-react'
 import Link from 'next/link'
+import { SearchBox } from './search-box'
 import { WikiLink } from './wiki-link'
 
 export function SiteHeader() {
