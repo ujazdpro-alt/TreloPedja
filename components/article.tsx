@@ -56,8 +56,9 @@ export function Article() {
         <WikiLink>Ujeździe</WikiLink> w województwie{' '}
         <WikiLink>łódzkim</WikiLink>) – samozwańczy mistrz{' '}
         <WikiLink>kulturystyki</WikiLink>, zawodnik{' '}
-        <WikiLink>e-sportowy</WikiLink> oraz niekwestionowany specjalista od
-        przekonywania znajomych, że „następna runda będzie wygrana”. Występuje w
+        <WikiLink>e-sportowy</WikiLink> niesamowity i jeden z lepszyc przemków
+        na świecie, oraz niekwestionowany specjalista od przekonywania znajomych,
+        że „następna runda będzie wygrana”. Występuje w
         drużynie <WikiLink red>ujazd.pro</WikiLink>, gdzie według legend pełni
         funkcję głównego strzelca, motywatora i okazjonalnego testera
         cierpliwości swoich kolegów z zespołu.
@@ -67,9 +68,8 @@ export function Article() {
       </p>
       <p className="mb-3">
         Znany również jako <i>Przemuś</i>, <i>Zakolak</i>, <i>Kozak</i>,{' '}
-        <i>Kulturysta</i> oraz <i>CWL</i> (Cudowny Wyboisty Ludek). Dziś, 18 lat
-        po swoich narodzinach, oficjalnie osiąga pełnoletność, co według uczonych
-        stanowi niebezpieczną ilość mocy jak na jednego człowieka.
+        <i>Kulturysta</i> oraz <i>CWL</i> (Cudowny Wyboisty Ludek). Przemek pomimo różnych
+        pseudonimów, dalej jest po prostu przemkiem.
         <sup className="text-[11px]">
           [<WikiLink href="#references">2</WikiLink>]
         </sup>
